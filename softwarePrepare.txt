@@ -1,5 +1,5 @@
 https://ggrarea.hicp.net/archives/2162.html 使用树莓派控制的教程
 https://www.raspberrypi.org/downloads/raspbian/ 树莓派镜像
 https://superb-dca2.dl.sourceforge.net/project/win32diskimager/Archive/Win32DiskImager-0.9.5-install.exe 安装镜像工具
-http://hsk.oray.com/download/ linux 系统下向外网提供服务的工具
-http://service.oray.com/question/4287.html 花生壳使用方法
+http://download.oray.com/peanuthull/embed/phddns_raspberry.tgz 树莓派系统下向外网提供服务的工具
+http://service.oray.com/question/2680.html 花生壳使用方法
